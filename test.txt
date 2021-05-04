@@ -1,4 +1,0 @@
-hi my name is yuzhu Feng
-I'm learning how to use git
-now I'm learning git diff
-this is the third day.
