@@ -1,2 +1,3 @@
 hello my name is Alfred.
 I'm studying the merge precisely
+I'm adding one line
