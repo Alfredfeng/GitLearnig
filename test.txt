@@ -2,4 +2,4 @@ hello my name is Alfred.
 I'm studying the merge precisely
 I'm adding one line
 I'm adding fourth line
-this is really important
+Now I'm learning git rebase.
