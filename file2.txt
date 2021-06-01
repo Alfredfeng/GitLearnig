@@ -1,2 +1,2 @@
 this is file2
-let's add a new line
+now I'm modifiying file2
